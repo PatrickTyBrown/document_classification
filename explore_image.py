@@ -11,7 +11,7 @@ def click_event(event, x, y, flags, params):
 	# checking for left mouse clicks
 	if event == cv2.EVENT_LBUTTONDOWN:
 
-		print('{"field": "blank", "x": ' + str(x) + ', "y": ' + str(y) + '}')
+		print('{"field": "blank", x": ' + str(x) + ', "y": ' + str(y) + '},')
 
 		font = cv2.FONT_HERSHEY_SIMPLEX
 		cv2.putText(img, str(x) + ',' +
@@ -24,7 +24,7 @@ def click_event(event, x, y, flags, params):
 if __name__=="__main__":
 
 	# reading the image
-	img = cv2.imread('templates_img/IncomeDrivenRepayment_0.jpg', 1)
+	img = cv2.imread('templates_img/Consolidation_0.jpg', 1)
 
 	#resize image
 	img = cv2.resize(img, (850, 1100))   
