@@ -1,0 +1,7 @@
+{"image_data": "Pixel values for each image",
+ "target_data": {
+    "Inco": 0, 
+    "Teac": 1, 
+    "Cons": 2, 
+    "Publ": 3, 
+    "Econ": 4}}
