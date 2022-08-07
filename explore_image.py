@@ -24,7 +24,7 @@ def click_event(event, x, y, flags, params):
 if __name__=="__main__":
 
 	# reading the image
-	img = cv2.imread('templates_img/Consolidation_0.jpg', 1)
+	img = cv2.imread('templates_img/TeacherForbearance_0.jpg', 1)
 
 	#resize image
 	img = cv2.resize(img, (850, 1100))   
