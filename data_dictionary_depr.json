@@ -5,12 +5,16 @@
     "Cons": 0, 
     "Publ": 4, 
     "Econ": 3,
-    "Reaf":5},
+    "TeaF":5,
+    "Gene":6,
+    "Reaf":7},
     "target_data_full": {
       "IncomeDrivenRepayment_0.jpg": 2, 
       "TeacherLoanForgiveness_0.jpg": 1, 
       "Consolidation_0.jpg": 0, 
       "PublicServiceLoanForgivenessPSLFTemporaryExpandedPSLFTEPSLFCertificationApplication_0.jpg": 4, 
       "EconomicHardshipDeferment_0.jpg": 3,
-      "Reaffirmation_0.jpg":5}
+      "TeaF.jpg":5,
+      "GeneralForbearance_0.jpg":6,
+      "Reaffirmation_0.jpg":7}
    }
