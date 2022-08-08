@@ -5,3 +5,4 @@ data_full/
 models/
 models_200/
 assets/
+gradio_app/
