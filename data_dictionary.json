@@ -5,12 +5,16 @@
     "Cons": 0, 
     "Publ": 4, 
     "Econ": 3,
-    "Reaf":5},
+    "Reaf":5,
+    "Tota":6,
+    "Unem":6},
     "target_data_full": {
       "IncomeDrivenRepayment_0.jpg": 2, 
       "TeacherLoanForgiveness_0.jpg": 1, 
       "Consolidation_0.jpg": 0, 
       "PublicServiceLoanForgivenessPSLFTemporaryExpandedPSLFTEPSLFCertificationApplication_0.jpg": 4, 
       "EconomicHardshipDeferment_0.jpg": 3,
-      "Reaffirmation_0.jpg":5}
+      "Reaffirmation_0.jpg":5,
+      "TotalandPermanentDisabilityApplicantRepresentativeDesignation_2.jpg":6,
+      "UnemploymentDeferment_1.jpg":6}
    }
